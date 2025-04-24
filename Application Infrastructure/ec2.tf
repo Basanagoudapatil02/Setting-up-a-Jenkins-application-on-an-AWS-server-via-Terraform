@@ -11,7 +11,7 @@ resource "aws_instance" "server" {
   key_name               = aws_key_pair.my-key.key_name
   vpc_security_group_ids = [aws_security_group.JenkinsSg.id]
   subnet_id              = aws_subnet.subnet_1.id
-  user_data = file ("install-jenkins.sh")
+  user_data = file("${path.module}/../Jenkins_Application/install-jenkins.sh")
 
     tags = {
       Name = "jenkins"
@@ -22,4 +22,3 @@ resource "aws_instance" "server" {
     volume_type = "gp3"
   }
 }
-
