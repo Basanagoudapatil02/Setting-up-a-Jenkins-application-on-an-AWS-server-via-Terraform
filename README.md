@@ -13,3 +13,23 @@ This project focuses on deploying a Jenkins application on an AWS server using T
 3.	AWS CLI Installed and Configured: Install the AWS Command Line Interface (CLI) and configure it with your AWS credentials.
 4.	Basic Understanding of Terraform and AWS: Familiarize yourself with Terraform basics and have a basic understanding of AWS services, particularly VPC, EC2 etc.
 5.	IDE: In my opinion, the VS Code Editor stands out as the top pick for an Integrated Development Environment (IDE).
+
+**Steps**
+
+| Step No | Document Link |
+| ------ | ------ |
+| 1 | [Install the Required Plugins][Step-1] |
+| 2 | [Create Resource Configuration Files][Step-2] |
+| 3 | [Assigning Values to Resources][Step-3] |
+| 4 | [Jenkins Application Deployment][Step-4] |
+| 5 | [Retrieving the Instance IP Address as Output][Step-5] |
+| 6 | [Deploy the Application][Step-6] |
+
+   [Step-1]: <./Step 1: Install the Required Plugins>
+   [Step-2]: <./Step 2: Create Resource Configuration Files>   
+   [Step-3]: <./Step 3: Assigning Values to Resources>
+   [Step-4]: <./Step 4: Jenkins Application Deployment>
+   [Step-5]: <./Step 5: Retrieving the Instance Link as Output>   
+   [Step-6]: <./Step 6 : Deploy the Application>
+
+
