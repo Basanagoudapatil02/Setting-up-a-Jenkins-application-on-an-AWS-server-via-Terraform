@@ -30,6 +30,6 @@ This project focuses on deploying a Jenkins application on an AWS server using T
    [Step-3]: <./Step 3: Assigning Values to Resources.md>
    [Step-4]: <./Step 4: Jenkins Application Deployment.md>
    [Step-5]: <./Step 5: Retrieving the Instance IP Address as Output.md>   
-   [Step-6]: <./Step 6: Deploy the Application.md>
+   [Step-6]: <./Step 6 : Deploy the Application.md>
 
 
