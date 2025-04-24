@@ -16,4 +16,5 @@ terraform init
 5.	Running terraform init will install the necessary plugins and modules required for connecting to AWS and managing your infrastructure.
 
 
+![image](https://github.com/user-attachments/assets/7c50ac09-5e8a-46eb-9016-02316307c355)
 
