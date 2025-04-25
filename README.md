@@ -4,7 +4,7 @@
 This project focuses on deploying a Jenkins application on an AWS server using Terraform. By leveraging Terraform's infrastructure as code capabilities, we aim to automate the setup process for Jenkins, reducing manual effort and ensuring consistency in deployment.Through this project, we will define the necessary AWS resources using Terraform configuration files, including EC2 instances, security groups, and networking components. We'll then utilise Terraform to provision these resources on AWS. Next, we'll write scripts to install and configure Jenkins on the provisioned EC2 instance. These scripts will handle tasks such as installing dependencies, setting up users, and configuring plugins. Finally, we'll execute the Terraform configuration, triggering the deployment process. Once completed, Jenkins will be up and running on the AWS server, ready for use. This automated deployment approach will streamline the setup of Jenkins on AWS, enabling faster deployment, reducing human error, and improving overall efficiency in software development workflows.
 
 **Overview :**   		
-![terraform-jenkins-project](https://github.com/user-attachments/assets/c3ddaa0a-0109-4648-bc83-8e7a53a1204f)
+![image](https://github.com/user-attachments/assets/af8be9c4-fd3f-4bc0-a6e4-30efda612bdd)
 
 
 **Prerequisites:**
